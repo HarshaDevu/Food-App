@@ -9,3 +9,6 @@
 
 ### Additional Features
 * We could add some additional features like sending the email to the user with the help of starter mail provided by SpringBoot we could use the help of SMTP and send the update to the user when ever the order is placed and when the shipper ships the order
+* Tracking information about the order can be provided to the customers
+* Chatbot can be added for customer support
+* Functionality of retruns can be provided to the customers
